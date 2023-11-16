@@ -1,5 +1,3 @@
 hardest CS19 assignment so far?
 
-MS
-
-MSTT
+MST
