@@ -1,3 +1,7 @@
 Cereal or milk first?
 
+<<<<<<< HEAD
 Cereal
+=======
+plutonium
+>>>>>>> be79a150110f34e875f04eac1d38421c9a559ab5
